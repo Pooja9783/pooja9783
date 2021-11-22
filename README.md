@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [gearbest](https://github.com/Pooja9783/gearbest.git)
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pooja9783](https://github.com/Pooja9783)
 
