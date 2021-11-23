@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/poojasankhala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojasankhala97" height="30" width="40" /></a>
+<a href="https://twitter.com/poojasankhala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojasankhala9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/poojasankhla97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojasankhla97" height="30" width="40" /></a>
 <a href="https://fb.com/pooja sankhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pooja sankhala" height="30" width="40" /></a>
 <a href="https://instagram.com/poojasankhala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poojasankhala97" height="30" width="40" /></a>
