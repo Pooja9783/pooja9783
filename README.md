@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
-<h3 align="center">A passionate full stack Web developer from India</h3>
+<h3 align="center">A passionate about full stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /> </p>
 
 - 🔭 I’m currently working on [gearbest](https://github.com/Pooja9783/gearbest.git)
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pooja9783](https://github.com/Pooja9783)
 
