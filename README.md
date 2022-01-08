@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /> </p>
 
-- 💻 I’m a full stack web developer.
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🌱 I’m currently learning **Data Structure & Algorithm **
+- want to know mw more <a href="https://twitter.com/poojasankhala9" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
