@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm **
 - 💬 Ask me about Javascript & ReactJs
-- 🗺️ Want to know more? Check out my portfolio here 🌐 <a href="https://twitter.com/poojasankhala9" target="blank">here</a>
+- 🗺️ Check out my portfolio here 🌐 <a href="https://pooja-sankhala-portfolio.netlify.app/" target="blank">here</a>
 
 
 <h3 align="left">Connect with me:</h3>
