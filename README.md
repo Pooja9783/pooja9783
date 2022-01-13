@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /></p>
 
-<h3 align="center"> I’m a full-stack web developer. who specializes in MERN stack development. A passionate learner who likes to new explore things 💡<h3>
-- 🌱 I’m currently learning **Data Structure & Algorithm **<br>
-- 💬 Ask me about Javascript & ReactJs<br>
-- 🗺️ Check out my portfolio here 🌐 <a href="https://pooja-sankhala-portfolio.netlify.app/" target="blank">here</a><br>
+I’m a full-stack web developer. who specializes in MERN stack development. A passionate learner who likes to new explore things 💡
+-  I like to Watching Movie in my free time.
+- 🌱 I’m currently learning **Data Structure & Algorithm **
+- 💬 Ask me about Javascript & ReactJs.
+- 🗺️ Check out my portfolio here 🌐 <a href="https://pooja-sankhala-portfolio.netlify.app/" target="blank">here</a>
 
 
 <h3 align="left">Connect with me:</h3>
