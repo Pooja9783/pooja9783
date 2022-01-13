@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /></p>
-<p align="center>I’m a full-stack web developer. who specializes in MERN stack development. A passionate learner who likes to new explore things 💡.</p>
 
 - 🌱 I’m currently learning **Data Structure & Algorithm **
 - 💬 Ask me about Javascript & ReactJs
