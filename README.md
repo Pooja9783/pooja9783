@@ -2,9 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /></p>
 
 I’m a full-stack web developer. who specializes in MERN stack development. A passionate learner who likes to new explore things 💡
--  I like to Watching Movie in my free time.
+- 🌱 I love to code, build things & solve problems.
 - 🌱 I’m currently learning **Data Structure & Algorithm **
 - 💬 Ask me about Javascript & ReactJs.
+- ⚡ For fun, I like watching movies, Listening Music & Explore new things .
 - 🗺️ Check out my portfolio here 🌐 <a href="https://pooja-sankhala-portfolio.netlify.app/" target="blank">here</a>
 
 
