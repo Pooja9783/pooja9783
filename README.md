@@ -3,7 +3,7 @@
 
   I’m a full-stack web developer. who specializes in MERN stack development. A passionate learner who likes to explore new things 💡
 - 👨‍💻 I love to code, build things & solve problems.
-- 🌱 I’m currently learning **Data Structure & Algorithm **
+- 🌱 I’m currently learning Data Structure & Algorithm
 - 💬 Ask me about Javascript & ReactJs.
 - ⚡ For fun, I like watching movies, Listening Music & Explore new things .
 - 🗺️ Check out my portfolio here 🌐 <a href="https://pooja-sankhala-portfolio.netlify.app/" target="blank">here</a>
