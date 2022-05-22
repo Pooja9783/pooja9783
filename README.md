@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
+<h1 align="center">A full-stack web developer.
+</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /></p>
 
   I’m a full-stack web developer. who specializes in MERN stack development. A passionate learner who likes to explore new things 💡
