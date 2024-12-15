@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /> </p>
 
-- 🔭 I’m currently working on **Online Quiz**
+- 🔭 I’m currently working on **MERN Stack Chat App**
 
 - 🌱 I’m currently learning **MERN Stack**
 
