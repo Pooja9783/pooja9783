@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Sankhala</h1>
-<h3 align="center">a programmer who is enthusiastic to explore and learn new things. Keen to solve problems. always try to write reusable and optimal codes.💡</h3>
+<h3 align="center">A programmer enthusiastic to explore and learn new things. Keen to solve problems. always try to write reusable and optimal codes.💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja9783&label=Profile%20views&color=0e75b6&style=flat" alt="pooja9783" /> </p>
 
