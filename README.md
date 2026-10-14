@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Sankhala</h1>
-<h3 align="center">A programmer enthusiastic to explore and learn new things” sounds less polished than your updated professional bio. Replace it with a concise introduction aligned with your experience.</h3>
+<h3 align="center">A programmer enthusiastic to explore and learn new things sounds less polished than your updated professional bio. Replace it with a concise introduction aligned with your experience.</h3>
 
 - 🔭 I’m currently working on **MERN Stack AI Based Resume Builder**
 
